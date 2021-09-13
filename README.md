@@ -11,9 +11,9 @@ Ver 1.0 : ( Đã xong )
 - Get OTP
 - Login
 - Get LSGG. có hướng dẫn cách get lsdg hạn chế limit.
-Toàn bộ data được lưu ở CSDL nên rất an toán
+Toàn bộ data được lưu ở CSDL nên rất an toàn
 
-Ver 1.01 : ( Đã xibg )
+Ver 1.01 : ( Đã xong )
 - Chuyễn tiền từ Momo này sang Momo khác
 - Rút tiền từ Momo về tài khoản Ngân hàng liên kết
 - Get live notification không bị limit
