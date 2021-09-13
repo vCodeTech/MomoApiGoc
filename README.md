@@ -13,6 +13,13 @@ Ver 1.0 : ( Đã xong )
 - Get LSGG. có hướng dẫn cách get lsdg hạn chế limit.
 Toàn bộ data được lưu ở CSDL nên rất an toán
 
-Ver 1.01 : ( Đang Dev )
+Ver 1.01 : ( Đã xibg )
 - Chuyễn tiền từ Momo này sang Momo khác
 - Rút tiền từ Momo về tài khoản Ngân hàng liên kết
+- Get live notification không bị limit
+- Get DS Ngân hàng hỗ trợ rút tiền ( rút tiền về ngân hàng bất kỳ )
+
+Ver 1.02 : ( Đang Dev )
+- Gửi tin nhắn trong Zalo
+- Yêu cầu chuyễn tiền trong Zalo
+- Tạo mã chuyễn tiền
